@@ -6,4 +6,5 @@
 ## I selected this topology because it is descriptive. Here we have two computers, a printer, and a router.
 # PythonOOP.png
 ## The purpose of this file is about code and run.
-## connected devices using visio 
+## connected devices using visio using bus topology 
+
